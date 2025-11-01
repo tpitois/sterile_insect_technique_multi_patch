@@ -1,5 +1,5 @@
-# Multi-Agent Simulation of Sterile Insect Technique in a Multi-Patch System
-
+# An Optimization approach for implementing the Sterile Insect Technique
+in a multi-patch system
 ## Description
 
 This repository contains a comprehensive framework for simulating and optimizing Sterile Insect Technique (SIT) applications in multi-patch mosquito population systems. The project includes:
