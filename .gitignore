@@ -1,0 +1,5 @@
+/data/
+/.venv/
+/.idea/
+/uv.lock
+/src/sit_mas_simulation.egg-info/

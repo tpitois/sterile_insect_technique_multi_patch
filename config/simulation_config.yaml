@@ -1,0 +1,10 @@
+'numbers_of_day': 130
+'numbers_of_patches': 2
+'migration_rates': [
+  [0.99, 0.01],
+  [0.01, 0.99]
+]
+
+'mating_rates': [0.2, 0.2]
+
+'capacities': [10000, 10000]

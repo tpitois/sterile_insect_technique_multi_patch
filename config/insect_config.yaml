@@ -1,0 +1,38 @@
+egg_duration_dist: "uniform"
+egg_duration_param: [4.5, 0.7]
+egg_survive_dist: "bernoulli"
+egg_survive_param: [0.492]
+
+larva_duration_dist: "uniform"
+larva_duration_param: [7.3, 0.6]
+larva_survive_dist: "bernoulli"
+larva_survive_param: [0.812]
+
+pupa_duration_dist: "uniform"
+pupa_duration_param: [2.7, 0.1]
+pupa_survive_dist: "bernoulli"
+pupa_survive_param: [0.938]
+
+wild_male_lifespan_dist: "weibull"
+wild_male_lifespan_param: [2.1945968574915145, 22.84070720300488]
+
+sterile_male_competitiveness: 0.5
+sterile_male_lifespan_dist: "weibull"
+sterile_male_lifespan_param: [2.1945968574915145, 16.0]
+
+female_lifespan_dist: "weibull"
+female_lifespan_param: [2.208137541820492, 25.482192728652816]
+
+female_mate_next_cycle_dist: "norm"
+female_mate_next_cycle_param: [5.0, 1.0]
+
+eggs_male_dist: "norm"
+eggs_male_param: [10.0, 5.0]
+
+eggs_female_dist: "norm"
+eggs_female_param: [9.0, 5.0]
+
+female_max_mating_cycles: 5
+
+female_first_blood_dist: "norm"
+female_first_blood_param: [5.54, 0.82]
