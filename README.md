@@ -1,6 +1,4 @@
-# An Optimization approach for implementing the Sterile Insect Technique
-in a multi-patch system
-## Description
+# An Optimization approach for implementing the Sterile Insect Technique in a multi-patch system
 
 This repository contains a comprehensive framework for simulating and optimizing Sterile Insect Technique (SIT) applications in multi-patch mosquito population systems. The project includes:
 
